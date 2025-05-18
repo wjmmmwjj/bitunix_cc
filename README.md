@@ -55,7 +55,8 @@ mpf.plot(df, type='candle', style='binance',
          savefig='trade_chart.png')
 ```
 
-## 系統安裝指南
+## 系統快速安裝及啟動
+可直接在資料夾執行start.bat自動安裝依賴套件及啟動機器人
 ## 系統安裝指南
 ### 1. Python环境配置
 #### 1.1 安装Python 3.11+
